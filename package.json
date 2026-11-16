@@ -1,0 +1,9 @@
+{
+    "name": "knip-drive-letter-repro",
+    "private": true,
+    "workspaces": ["packages/*"],
+    "devDependencies": {
+        "knip": "^6.45.1",
+        "typescript": "^5.9.3"
+    }
+}
